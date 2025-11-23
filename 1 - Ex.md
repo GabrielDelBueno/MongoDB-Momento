@@ -22,13 +22,13 @@ Foram utilizados métodos como find, $group e $sum para realizar consultas no Mo
 Inserção de funcionário:
 
 db.funcionarios.insertOne({
-  "nome": "Bianca Costa de Melo",
+  "nome": "Gabriel Del Valle",
   "salario": 2000,
   "departamento": ObjectId('85992103f9b3e0b3b3c1fe74'),
   "cargo": "Desenvolvedora",
   "escritorio": "São Paulo",
   "dataAdmissao": "2026-01-01",
-  "email": "bianca.costamelo1@gmail.com"
+  "email": "delvallebueno@gmail.com"
 })
 Contagem de funcionários total:
 
